@@ -12,3 +12,6 @@ My app created from scratch make the user start with the movie "Mean Girls". The
 * If the user enters a wrong name or title, a red message is display bellow the button. 
 
 * If the user enters the name of a movie or an actor that already has been entered or seen, an re message is also displayed bellow the button.
+
+## How can I test it ? 
+You can go directly on the following link : https://thawing-atoll-72027.herokuapp.com/
