@@ -3,7 +3,7 @@
 ## What my App does : 
 My app created from scratch make the user start with the movie "Mean Girls". The user has to choose the name of an actor or the director of this movie. 
 
-* If the entered actor or director indeed worked for this movie, the picture of her/him is displayed. 
+* If the entered actor or director indeed worked for this movie, the picture of her/him is displayed + his/her name
 
 * Then, the user has to enter the name of a movie in which this actor or director appears. If the movie is right, an image of it is display with the title and release year.
 
