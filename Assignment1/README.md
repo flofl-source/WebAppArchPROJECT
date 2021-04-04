@@ -1,6 +1,7 @@
 # Whiteboard
 
 I took this code from : https://github.com/Tnemlec/Whiteboard
+
 Before executing server.js, you must write the following command in your terminal:
 
     npm install
