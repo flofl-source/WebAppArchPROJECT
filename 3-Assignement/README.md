@@ -5,7 +5,7 @@ My app created from scratch make the user start with the movie "Mean Girls". The
 
 * If the entered actor or director indeed worked for this movie, the picture of her/him is displayed + his/her name
 
-* Then, the user has to enter the name of a movie in which this actor or director appears. If the movie is right, an image of it is display with the title and release year.
+* Then, the user has to enter the name of a movie in which this actor or director appears. If the movie is right, an image of it is displayed with the title and release year.
 
 * All this app is connected to the tmdb API.
 
